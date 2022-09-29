@@ -1,0 +1,15 @@
+D:\Учеба\Itog\zadacha\bin\Debug\net6.0\zadacha.exe
+D:\Учеба\Itog\zadacha\bin\Debug\net6.0\zadacha.deps.json
+D:\Учеба\Itog\zadacha\bin\Debug\net6.0\zadacha.runtimeconfig.json
+D:\Учеба\Itog\zadacha\bin\Debug\net6.0\zadacha.dll
+D:\Учеба\Itog\zadacha\bin\Debug\net6.0\zadacha.pdb
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.csproj.AssemblyReference.cache
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfoInputs.cache
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfo.cs
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.csproj.CoreCompileInputs.cache
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.dll
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\refint\zadacha.dll
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.pdb
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\zadacha.genruntimeconfig.cache
+D:\Учеба\Itog\zadacha\obj\Debug\net6.0\ref\zadacha.dll
